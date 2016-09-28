@@ -1,0 +1,7 @@
+(pollito, chicken)
+(gallina, hen)
+(calculadora, calculator)
+(puchica, wow)
+(corto, quiz)
+(automovil, car)
+(barco, ship)
