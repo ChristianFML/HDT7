@@ -1,3 +1,14 @@
+/*
+Jose Luis Mendez Cardenas 15024
+Christan Morales 15015
+HDT7
+https://github.com/ChristianFML/HDT7.git
+27/09/2016
+
+
+
+*/
+
 import java.io.*;
 import java.util.*;
 
